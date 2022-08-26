@@ -8,6 +8,8 @@ docker run -d --name doctext-bullmq-redis -p6379:6379 redis
 ```
 You must also have GhostScript and Tesseract installed on your system and is in `PATH`
 
+## Instructions:
+
 Go to the project folder
 ```bash
 cd docext-bullmq
