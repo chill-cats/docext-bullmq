@@ -10,7 +10,7 @@ You must also have GhostScript and Tesseract installed on your system and is in 
 
 Go to the project folder
 ```bash
-cd doctext-bullmq
+cd docext-bullmq
 ```
 
 Install dependency
